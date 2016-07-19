@@ -1,4 +1,6 @@
-﻿using System;
+﻿///Напишіть програму, яка виведе всі цілі числа від 0(включно) до 999(включно). 
+///Кожне число виведіть в новому рядку без інших розділових знаків.
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
